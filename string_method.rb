@@ -1,1 +1,1 @@
-Trying out Travis CI
+'Trying out Travis CI'
