@@ -23,8 +23,7 @@ describe Circle do
       expected_area = Math::PI * 5**2
       actual_area = Circle.new(5).area
 
-      # expect(actual_area).to eq(expected_area)
-      expect(actual_area).to eq(false)
+      expect(actual_area).to eq(expected_area)
     end
   end
 
